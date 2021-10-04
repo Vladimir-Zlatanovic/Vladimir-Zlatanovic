@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vladimir-Zlatanovic
-- 👀 I’m interested in backend web development(PHP)
+- 👀 I’m interested in backend web development (PHP)
 - 🌱 I’m currently learning Laravel and Vue.js
 <!---
 Vladimir-Zlatanovic/Vladimir-Zlatanovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
